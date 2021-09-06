@@ -1,1 +1,3 @@
-
+- Create a new Colab notebook from https://colab.research.google.com/
+- Upload the resume.csv file to your Google Drive and use the path to read it in the Colab notebook. 
+- Use the https://colab.research.google.com/drive/1O7WF7KvU6XXtdcwBWmKptguxIqj8byog?usp=sharing Notebook for reference
