@@ -1,6 +1,4 @@
 # ML_Workshop_RVCE
 
-### Naive Bayes 
-
-- Notebook Link: https://colab.research.google.com/drive/1O7WF7KvU6XXtdcwBWmKptguxIqj8byog?usp=sharing
-- CSV for input : 
+- Naive Bayes - https://github.com/abhiramr/ML_Workshop_RVCE/tree/main/naive_bayes
+- Support Vector Machines - 
